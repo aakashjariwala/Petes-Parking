@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Petes-Parking-Logo-White.png" alt="CampusCircle Logo" width="300"/>
+</p>
+
 # Pete’s Parking
 
 A web application built using Java and Spring to provide parking tracking, reservations, and map-based browsing around Purdue University.
